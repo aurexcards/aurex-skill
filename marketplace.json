@@ -1,0 +1,30 @@
+{
+  "name": "aurex-skill",
+  "displayName": "Aurex API Skill",
+  "description": "Teaches AI agents how to build on the Aurex API — virtual crypto-funded cards, user management, deposits, and wallet infrastructure.",
+  "version": "1.0.0",
+  "author": "aurex-cash",
+  "license": "MIT",
+  "homepage": "https://aurex.cash",
+  "docs": "https://docs.aurex.cash",
+  "repository": "https://github.com/aurexcards/aurex-skill",
+  "skillPath": "aurex-api/SKILL.md",
+  "tags": [
+    "aurex",
+    "crypto",
+    "virtual-cards",
+    "payments",
+    "api",
+    "fintech",
+    "usdc",
+    "sol",
+    "deposits"
+  ],
+  "compatibility": {
+    "claude-code": true,
+    "cursor": true,
+    "windsurf": true,
+    "codex": true,
+    "gemini-cli": true
+  }
+}
